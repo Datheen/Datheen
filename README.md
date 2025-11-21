@@ -1,16 +1,73 @@
-## Hi there 👋
+# 🌿👨🏻‍💻 Ckristian -- Desenvolvedor Front-End
 
-<!--
-**Datheen/Datheen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Construindo interfaces minimalistas, naturais e funcionais`**
 
-Here are some ideas to get you started:
+Me chamo Ckristian. Sou desenvolvedor Front-End e estudante de Ciência
+da Computação, com foco em criar interfaces que combinem tecnologia,
+natureza e design minimalista. Meu trabalho busca transmitir equilíbrio,
+fluidez e simplicidade --- inspirado pelas formas naturais, pelo
+silêncio visual e pelas texturas leves que encontramos no mundo ao nosso
+redor.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Acredito em uma web leve, limpa e bem organizada. Desenvolvo interfaces
+que unem estética natural, profissionaismo e boa arquitetura de código.
+Meu objetivo é construir experiências digitais que sejam funcionais,
+visualmente harmoniosas e agradáveis de usar, sempre respeitando
+princípios de clareza, hierarquia visual e equilíbrio.
+
+Crio projetos com atenção aos detalhes, boas práticas e uma abordagem
+que valoriza o essencial. Menos ruído. Menos excesso. Mais naturalidade,
+mais estrutura e mais sentido.
+
+🔗 **LinkedIn:**\
+https://www.linkedin.com/in/cristian-felipe-de-almeida-protazio-875016126/
+
+------------------------------------------------------------------------
+
+### 🍃 Tecnologias e Ferramentas
+
+`<img align="left" alt="HTML" title="HTML" width="36px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>`{=html}
+`<img align="left" alt="CSS" title="CSS" width="36px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>`{=html}
+`<img align="left" alt="JavaScript" title="JavaScript" width="36px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>`{=html}
+`<img align="left" alt="TypeScript" title="TypeScript" width="36px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>`{=html}
+`<img align="left" alt="React" title="React" width="36px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>`{=html}
+`<img align="left" alt="Vite.js" title="Vite.js" width="36px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg"/>`{=html}
+`<img align="left" alt="Tailwind" title="Tailwind CSS" width="36px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>`{=html}
+`<img align="left" alt="Git" title="Git" width="36px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>`{=html}
+
+`<br/>`{=html}`<br/>`{=html}`<br/>`{=html}
+
+------------------------------------------------------------------------
+
+### 🌱 Estilo de Código & Filosofia de Design
+
+-   Minimalismo como base de clareza\
+-   Harmonia visual inspirada na natureza\
+-   Layouts leves, organizados e funcionais\
+-   Código modular, limpo e fácil de manter\
+-   Experiências pensadas para transmitir calma e equilíbrio
+
+------------------------------------------------------------------------
+
+### 📊 Estatísticas do GitHub
+
+```{=html}
+<p>
+```
+`<img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Ckristian&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />`{=html}
+
+`<img 
+      align="left" 
+      alt="Linguagens mais usadas" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ckristian&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />`{=html}
+```{=html}
+</p>
+```
