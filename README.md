@@ -25,7 +25,7 @@ https://www.linkedin.com/in/cristian-felipe-de-almeida-protazio-875016126/
 ------------------------------------------------------------------------
 
 ### 🍃 Tecnologias e Ferramentas
-
+<br/>
 <img align="left" width="36px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img align="left" width="36px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <img align="left" width="36px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
@@ -35,39 +35,38 @@ https://www.linkedin.com/in/cristian-felipe-de-almeida-protazio-875016126/
 <img align="left" width="36px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
 <img align="left" width="36px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 
-<br/><br/><br/>
+<br/><br/>
 
 ------------------------------------------------------------------------
 
 ### 🌱 Estilo de Código & Filosofia de Design
 
--   Minimalismo como base de clareza\
--   Harmonia visual inspirada na natureza\
--   Layouts leves, organizados e funcionais\
--   Código modular, limpo e fácil de manter\
+-   Minimalismo como base de clareza
+-   Harmonia visual inspirada na natureza
+-   Layouts leves, organizados e funcionais
+-   Código modular, limpo e fácil de manter
 -   Experiências pensadas para transmitir calma e equilíbrio
 
 ------------------------------------------------------------------------
 
 ### 📊 Estatísticas do GitHub
 
-```{=html}
+
 <p>
-```
-`<img 
+<img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Ckristian&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />`{=html}
+  />
 
-`<img 
+<img 
       align="left" 
       alt="Linguagens mais usadas" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ckristian&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />`{=html}
-```{=html}
+  />
+
 </p>
-```
+
