@@ -1,4 +1,4 @@
-# 🌿👨🏻‍💻 Ckristian -- Desenvolvedor Front-End
+# 🌿👨🏻‍💻 Ckristian | Desenvolvedor Front-End
 
 **`Construindo interfaces minimalistas, naturais e funcionais`**
 
@@ -26,14 +26,14 @@ https://www.linkedin.com/in/cristian-felipe-de-almeida-protazio-875016126/
 
 ### 🍃 Tecnologias e Ferramentas
 
-`<img align="left" width="36px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>`{=html}
-`<img align="left" width="36px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>`{=html}
-`<img align="left" width="36px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>`{=html}
-`<img align="left" width="36px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>`{=html}
-`<img align="left" width="36px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>`{=html}
-`<img align="left" width="36px" style="padding-right: 12px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg"/>`{=html}
-`<img align="left" width="36px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>`{=html}
-`<img align="left" width="36px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>`{=html}
+<img align="left" width="36px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img align="left" width="36px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img align="left" width="36px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img align="left" width="36px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+<img align="left" width="36px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img align="left" width="36px" style="padding-right: 12px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg"/>
+<img align="left" width="36px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
+<img align="left" width="36px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 
 `<br/>`{=html}`<br/>`{=html}`<br/>`{=html}
 
