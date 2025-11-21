@@ -35,7 +35,7 @@ https://www.linkedin.com/in/cristian-felipe-de-almeida-protazio-875016126/
 <img align="left" width="36px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
 <img align="left" width="36px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 
-`<br/>`{=html}`<br/>`{=html}`<br/>`{=html}
+<br/><br/><br/>
 
 ------------------------------------------------------------------------
 
