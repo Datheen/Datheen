@@ -25,7 +25,7 @@ https://www.linkedin.com/in/cristian-felipe-de-almeida-protazio-875016126/
 ------------------------------------------------------------------------
 
 ### 🍃 Tecnologias e Ferramentas
-<br/>
+
 
 <img align="left" width="36px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img align="left" width="36px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
