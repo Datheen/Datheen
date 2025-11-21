@@ -10,7 +10,7 @@ silêncio visual e pelas texturas leves que encontramos no mundo ao nosso
 redor.
 
 Acredito em uma web leve, limpa e bem organizada. Desenvolvo interfaces
-que unem estética natural, profissionaismo e boa arquitetura de código.
+que unem estética natural, profissionalismo e boa arquitetura de código.
 Meu objetivo é construir experiências digitais que sejam funcionais,
 visualmente harmoniosas e agradáveis de usar, sempre respeitando
 princípios de clareza, hierarquia visual e equilíbrio.
@@ -26,14 +26,14 @@ https://www.linkedin.com/in/cristian-felipe-de-almeida-protazio-875016126/
 
 ### 🍃 Tecnologias e Ferramentas
 
-`<img align="left" alt="HTML" title="HTML" width="36px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>`{=html}
-`<img align="left" alt="CSS" title="CSS" width="36px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>`{=html}
-`<img align="left" alt="JavaScript" title="JavaScript" width="36px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>`{=html}
-`<img align="left" alt="TypeScript" title="TypeScript" width="36px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>`{=html}
-`<img align="left" alt="React" title="React" width="36px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>`{=html}
-`<img align="left" alt="Vite.js" title="Vite.js" width="36px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg"/>`{=html}
-`<img align="left" alt="Tailwind" title="Tailwind CSS" width="36px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>`{=html}
-`<img align="left" alt="Git" title="Git" width="36px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>`{=html}
+`<img align="left" width="36px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>`{=html}
+`<img align="left" width="36px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>`{=html}
+`<img align="left" width="36px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>`{=html}
+`<img align="left" width="36px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>`{=html}
+`<img align="left" width="36px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>`{=html}
+`<img align="left" width="36px" style="padding-right: 12px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg"/>`{=html}
+`<img align="left" width="36px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>`{=html}
+`<img align="left" width="36px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>`{=html}
 
 `<br/>`{=html}`<br/>`{=html}`<br/>`{=html}
 
