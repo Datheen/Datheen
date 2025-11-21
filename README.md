@@ -1,4 +1,7 @@
-# 🌿👨🏻‍💻 Ckristian | Desenvolvedor Front-End
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:1BAE38,100:6BF178&text=👋%20Olá%20Sou%20Ckristian%20Felipe%20(Hércules)&textBg=false&fontColor=ffffff&fontSize=36&fontAlignY=35&desc=Desenvolvedor%20Front-End%20e%20amante%20da%20Natureza&section=header&animation=fadeIn&descAlignY=50" />
+</p>
+
 
 **`Construindo interfaces minimalistas, naturais e funcionais`**
 
@@ -19,8 +22,13 @@ Crio projetos com atenção aos detalhes, boas práticas e uma abordagem
 que valoriza o essencial. Menos ruído. Menos excesso. Mais naturalidade,
 mais estrutura e mais sentido.
 
-🔗 **LinkedIn:**\
-https://www.linkedin.com/in/cristian-felipe-de-almeida-protazio-875016126/
+  <a href="https://www.linkedin.com/in/cristian-felipe-de-almeida-protazio-875016126/">
+        <img 
+            alt="Linkedin Logo" 
+            title="Linkedin" 
+            src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+
 
 ------------------------------------------------------------------------
 
