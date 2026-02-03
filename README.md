@@ -4,8 +4,7 @@
 
 **`Construindo interfaces minimalistas, naturais e funcionais`**
 
-Me chamo Ckristian. Sou desenvolvedor Front-End e estudante de Ciência
-da Computação, com foco em criar interfaces que combinem tecnologia,
+Me chamo Ckristian. Sou desenvolvedor Front-End e estudante de Engenharia de Software, com foco em criar interfaces que combinem tecnologia,
 natureza e design minimalista. Meu trabalho busca transmitir equilíbrio,
 fluidez e simplicidade — inspirado pelas formas naturais, pelo
 silêncio visual e pelas texturas leves que encontramos no mundo ao nosso
